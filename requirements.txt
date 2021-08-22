@@ -1,0 +1,16 @@
+matplotlib
+numpy
+scipy
+scikit-image
+pillow
+PIL
+pywt
+csv
+cv2
+
+keras
+sklearn
+tensorflow==2.1
+tensorflow.compat.v2
+segmentation-models
+tensorflow-estimator==2.1.
